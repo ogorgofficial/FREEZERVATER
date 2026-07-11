@@ -1,0 +1,1 @@
+worker: python card_bot.py
