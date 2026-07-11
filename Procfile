@@ -1,0 +1,1 @@
+worker: python vehicle_bot.py
